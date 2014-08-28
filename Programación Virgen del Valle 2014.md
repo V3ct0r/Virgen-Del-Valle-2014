@@ -62,7 +62,7 @@
 ![LogoEDM](/img/Escudo_De_La_Diocesis_De_Margarita.png?raw=true "Diócesis de Margarita")
 
 ---
-+ ####Héctor Aristimuño
+####Héctor Aristimuño
 [Twitter](https://twitter.com/V3xt0r)  
 [Facebook](https://www.facebook.com/V3ct0r)  
 [Google](https://www.google.com/+HectorAristimu%C3%B1o)  
