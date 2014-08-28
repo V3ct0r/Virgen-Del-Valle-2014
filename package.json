@@ -1,0 +1,17 @@
+{
+  "name": "Virgen-Del-Valle-2014",
+  "version": "0.0.0",
+  "description": "Programación Religiosa de Nuestra Señora del Valle 2014",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Héctor R. Aristimuño R.",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-connect": "^2.0.6",
+    "gulp-markdown": "^1.0.0",
+    "gulp-markdown-pdf": "^1.0.0"
+  }
+}
