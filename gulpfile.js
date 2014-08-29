@@ -11,7 +11,7 @@ var path = {
   build : 'build'};
 
 var source = {
-  md: '*.md'};
+  md: 'Programación Virgen del Valle 2014.md'};
 
 // -- TASKS --------------------------------------------------------------------
 gulp.task('html', function () {
@@ -29,7 +29,7 @@ gulp.task('pdf', function () {
 });
 
 gulp.task('webserver', function() {
-  connect.server({ port: 8000, root: 'build/', livereload: true });
+  connect.server({ port: 8000, root: path.build, livereload: true });
 });
 
 gulp.task('init', function() {
